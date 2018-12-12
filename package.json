@@ -1,0 +1,8 @@
+{
+  "name": "vue-tracking",
+  "version": "0.0.2",
+  "main": "index.js",
+  "repository": "https://github.com/lawnstarter/vue-tracking",
+  "author": "Michael Lefkowitz <lefkowitz.michael@gmail.com>",
+  "license": "MIT"
+}
