@@ -46,7 +46,7 @@ new Vue({
     }"
   v-track.change="{
         target: 'first-name--input',
-        anyExtraData: 'add it onto the direcetive'
+        anyExtraData: 'add it onto the directive'
     }"
 />
 ```
